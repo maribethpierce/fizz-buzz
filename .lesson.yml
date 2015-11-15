@@ -1,0 +1,8 @@
+---
+title: "Fizz buzz"
+type: "exercise"
+description: "Print out the numbers 1 to 100 with certain exceptions."
+visibility: "assign"
+tags: "ignition"
+ignore:
+- "fizz-buzz.md"
